@@ -1,0 +1,33 @@
+.bigbox{
+    background-color: #5a1d97;
+    width: 28%;
+    margin: auto;
+    margin-bottom: 30px;
+border-radius: 12px;
+}
+.bigbox:hover{
+    box-shadow: 0px 2px 24px 1px rgb(10, 1, 24);
+}
+.lower:hover{
+    box-shadow: 0px 2px 24px 1px rgb(10, 1, 24);
+}
+.upper{
+   padding: 15px 12px 18px 15px;
+    border-radius: 12px;
+position: relative;
+background-color: #5a1d97;
+}
+.upper img{
+  margin-left: 30%;
+    border-radius: 50%;
+    width: 35%;
+    height: 35%;
+    border: 2px solid white;
+    outline :none;
+}
+.lower{
+    text-align: center;
+    padding: 0px 12px 12px 12px;
+background-color: white;
+border-radius: 12px;
+}
